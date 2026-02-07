@@ -1,4 +1,4 @@
-package com.example.demo.controller;
+package com.fortunaglobal.cargillsapp.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.RequestParam;
