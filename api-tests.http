@@ -2,3 +2,6 @@ GET http://localhost:8080/hello
 
 ###
 GET http://localhost:8080/random?name=chanuka&value=3
+
+###
+GET http://localhost:8080/calculate?a=0&b=3
