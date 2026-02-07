@@ -8,11 +8,11 @@
 		<version>4.0.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>com.fortunaglobal.cargillsapp</groupId>
+	<artifactId>backend-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>backend-api</name>
+	<description>backend-api project for Cargills bank non-cutomer app</description>
 	<url/>
 	<licenses>
 		<license/>

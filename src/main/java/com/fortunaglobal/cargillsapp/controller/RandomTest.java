@@ -1,4 +1,4 @@
-package com.example.demo.controller;
+package com.fortunaglobal.cargillsapp.controller;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
